@@ -14,7 +14,7 @@ src/
 
 ## Setup
 
-1. Create a virtual environment (optional but recommended):
+1. Create a virtual environment:
 ```bash
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
@@ -37,4 +37,3 @@ python src/ai_controller.py
 ## Notes
 
 - Ensure the simulator (e.g., TORCS) is properly configured.
-- Edit parameters in `driver.py` to fine-tune behavior.
